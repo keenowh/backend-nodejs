@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+/RESTFUL/node_modules/
+/GRAPHQL/node_modules/
+build/
+tmp/
+temp/
+.env

@@ -1,0 +1,5 @@
+{
+  "env": {
+    "URI": "mongodb+srv:///dbUser:fuckeroo@cluster0-j044u.mongodb.net/test?retryWrites=true&w=majority"
+  }
+}
